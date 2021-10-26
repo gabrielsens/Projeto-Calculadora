@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Projeto Calculadora desenvolvido no curso Web Moderno - Cod3r
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
